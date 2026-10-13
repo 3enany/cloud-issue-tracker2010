@@ -4,13 +4,13 @@
 body {
  margin: 0;
  font-family: Arial, sans-serif;
- background: #f4f6f8;
+ background: #f4f4f8;
  color: #1f2933;
 }
 .app-header {
  padding: 2rem;
- background: #203864;
- color: white;
+ background: #12a131;
+ color: rgb(0, 0, 0);
 }
 .container {
  width: min(1100px, 92%);
@@ -20,7 +20,7 @@ body {
  gap: 1.5rem;
 }
 .panel {
- background: white;
+ background: rgb(246, 253, 235);
  padding: 1.5rem;
  border-radius: 10px;
 }
